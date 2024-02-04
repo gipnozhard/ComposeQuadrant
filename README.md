@@ -57,3 +57,10 @@ A layout composable that places its children in a vertical sequence.
 Weight modifier функция
 FontWeight.Bold свойство
 TextAlign.Justify свойство
+
+то что получилось на устройство:
+![image](https://github.com/gipnozhard/ComposeQuadrant/assets/71705375/825312eb-e8b4-4170-a351-7709bc158587)
+
+-----------------------------------
+Ссылка на код от Google:
+https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems/tree/main/Unit%201/Pathway%203/ComposeQuadrant
